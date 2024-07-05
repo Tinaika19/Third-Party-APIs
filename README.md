@@ -33,7 +33,7 @@ So that I can add individual project tasks, manage their state of progress, and 
 
 
 ## ScreenShot
-![screenshot](assets/screenshot)
+![screenshot](assets/screenshot.JPG)
 
 
 ## Link
