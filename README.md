@@ -10,7 +10,7 @@ So that I can add individual project tasks, manage their state of progress, and 
 
 ## Acceptance Criteria
 - When I open the task board, the list of project tasks is displayed in columns representing the task progress state (Not Yet Started, In Progress, Completed).<br>
-- Each task is color-coded to indicate whether it is nearing the deadline (yellow) or is overdue (red).<br>
+- Each task is color-coded .<br>
 - When I click on the button to define a new task, I can enter the title, description, and deadline date for the new task into a modal dialog.<br>
 - When I click the save button for that task, the properties for that task are saved in localStorage.<br>
 - When I drag a task to a different progress column, the task's progress state is updated accordingly and will stay in the new column after refreshing.<br>
